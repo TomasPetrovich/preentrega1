@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2,
+    "title": "Producto de prueba",
+    "description": "Descripción del producto de prueba",
+    "code": "ABC123",
+    "price": 99.99,
+    "status": true,
+    "stock": 10,
+    "category": "Electrónicos",
+    "thumbnails": [
+      "url_imagen_1",
+      "url_imagen_2"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Producto de prueba 2",
+    "description": "Descripción del producto de prueba",
+    "code": "ABC1234",
+    "price": 99.99,
+    "status": true,
+    "stock": 10,
+    "category": "Electrónicos",
+    "thumbnails": [
+      "url_imagen_1",
+      "url_imagen_2"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Producto de prueba 3",
+    "description": "Descripción del producto de prueba",
+    "code": "ABC12345",
+    "price": 99.99,
+    "status": true,
+    "stock": 10,
+    "category": "Electrónicos",
+    "thumbnails": [
+      "url_imagen_1",
+      "url_imagen_2"
+    ]
+  }
+]
